@@ -1,0 +1,20 @@
+{
+  "newPet": {
+    "id": 123456,
+    "name": "Molly",
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "photoUrls": [
+      "http://example.com/photos/Molly.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "mimada"
+      }
+    ],
+    "status": "available"
+  }
+}

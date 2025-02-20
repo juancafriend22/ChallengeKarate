@@ -1,0 +1,20 @@
+{
+  "updatedPet": {
+    "id": 123456,
+    "name": "Molly Actualizada",
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "photoUrls": [
+      "http://example.com/photos/Molly_updated.jpg"
+    ],
+    "tags": [
+      {
+        "id": 1,
+        "name": "mimada"
+      }
+    ],
+    "status": "sold"
+  }
+}

@@ -1,0 +1,7 @@
+Automatizar pruebas de una API con Karate y reportes Cucumber mejora la eficiencia y consistencia de las pruebas, permitiendo detectar problemas tempranamente
+y ampliar la cobertura de testeo. Los reportes detallados facilitan la identificación de errores y sirven como documentación, mejorando así la calidad del producto.
+Aunque requiere inversión inicial, a largo plazo reduce costos al agilizar el proceso de prueba y asegurar un producto más robusto.
+
+Este ejercicio me permitió tener una mejor compresión del porque es indispensable la automatización de pruebas a API'S ya que
+si bien solo se hizo un testeo a 4 endpoints, en un escenario normal la cantidad de endpoints de un servicio es muy alta y hacerlo
+de forma manual no es factible.

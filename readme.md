@@ -43,3 +43,5 @@ La página https://petstore.swagger.io/ proporciona la documentación sobre apis
 ## **Reportes**
 El proyecto utiliza Cucumber para la generación de reportes , una vez terminada la ejecución a nivel de logs se tendrá
 el directorio donde se genera el mismo, que es en el "../build/karate-reports/karate-summary.html" . Este es un reporte gerencial sobre los resultados de la prueba
+
+![img_1.png](img_1.png)
